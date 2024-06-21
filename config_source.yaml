@@ -4,3 +4,4 @@ auth:
     password: $PASSWORD
 images:
    k8s.gcr.io/metrics-server/metrics-server: registry.cn-shenzhen.aliyuncs.com/zc5l-base/metrics-server
+
