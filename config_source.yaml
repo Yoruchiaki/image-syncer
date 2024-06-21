@@ -3,5 +3,6 @@ auth:
     username: $USERNAME
     password: $PASSWORD
 images:
-   k8s.gcr.io/metrics-server/metrics-server: registry.cn-shenzhen.aliyuncs.com/zc5l-base/metrics-server
-
+  php: registry.cn-shenzhen.aliyuncs.com/zc5l-base/php
+  node: registry.cn-shenzhen.aliyuncs.com/zc5l-base/node
+  nginx: registry.cn-shenzhen.aliyuncs.com/zc5l-base/nginx
